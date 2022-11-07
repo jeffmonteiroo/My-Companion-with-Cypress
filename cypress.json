@@ -1,0 +1,15 @@
+{
+    "baseUrl": "https://vvuni-pac.whebdc.com.br",
+    "failOnStatusCode": false,
+    "viewportWidth": 1440,
+    "viewportHeight": 900,
+    "env": {
+        "db": {
+          "user"          : "usuariodobanco",
+          "password"      : "senhadobanco",
+          "connectString" : "enderecodoservidor/nomeDoBanco"
+        }
+      }
+
+}
+
